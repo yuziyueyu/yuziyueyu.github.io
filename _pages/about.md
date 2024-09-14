@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### Research
 
-This [Ziyue yu](https://ziyueyu-c.github.io/.github.io/)
+This is [Ziyue yu](https://ziyueyu-c.github.io/yuziyue.github.io//)
   
 Here is some practice about how to build up my own website
 
