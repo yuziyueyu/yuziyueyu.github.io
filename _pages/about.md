@@ -27,8 +27,20 @@ Best wishes! And have a good everyday!
 
 
 
-***Some command link***
+### Recent
 
-[Google Scholar](https://scholar.google.com/)
 
+
+### Quick link
+ 1. Publication and Projects
+[ziyue yu - Publication](https://ziyueyu-c.github.io/yuziyue.github.io//publications/)
 [‪ziyue yu‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=C4-4wAQAAAAJ&hl=en)
+[Page Not Found - Academic website (ziyueyu-c.github.io)](https://ziyueyu-c.github.io/yuziyue.github.io//talks/)
+ 2. Resume | Resume download
+ 
+ 3. Relevant link
+
+ 5. 
+
+### Update
+
