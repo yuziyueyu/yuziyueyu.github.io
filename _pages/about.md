@@ -24,8 +24,7 @@ I am happy to share my experience and research here! I hope my website may help 
 Best wishes! And have a good everyday!
 
 ### Photo
-![2024 Before Graduation](https://i.postimg.cc/MG25GJdg/ZiyueYu.jpg)
-![2024 Pitt Zoo](https://i.postimg.cc/q7sLhDFq/1-4.jpg%20https://i.postimg.cc/Vv6Bhfk0/1-5.jpg%20https://i.postimg.cc/j5v4vwtr/1-6.jpg%20https://i.postimg.cc/76qNgMvV/1-7.jpg)
+
 
 
 ***Some command link***
