@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home|Ziyue Yu|Curry"
+title: "Home-Ziyue Yu"
 author_profile: true
 redirect_from: 
   - /about/
