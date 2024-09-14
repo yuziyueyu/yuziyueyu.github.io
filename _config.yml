@@ -21,7 +21,7 @@ repository               : "ZiyueYu-C/yuziyue.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avatar.jpg"
+  avatar           : "https://i.postimg.cc/vZLMPbgv/avatar.jpg"
   name             : "Ziyue Yu | Curry"
   pronouns         : "He" # example: "she/her"  
   bio              : "A Ph.D student at the University of Pittsburgh"
