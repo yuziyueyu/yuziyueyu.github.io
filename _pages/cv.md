@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
+======
 
 
 * Ph.D in PSU,  [University of Pittsburgh](https://www.pitt.edu/) , 2029 (expected)
 * B.S. in SUSTech, [Southern University of Science and Technology](https://mae.sustech.edu.cn), 2024
 
-## Work experience
+Work experience
+======
  * Fall 2024: Teaching Assistant in [CEE1402](https://sites.pitt.edu/~budny/CE/MainBody.html)
 	-University of Pittsburgh
 	-Duties included: teaching lab course, grading homework
@@ -26,7 +28,8 @@ redirect_from:
     -Duties included: Development of a medical robot for intensinal examination
     -Supervisor: [Dr. Hongyan Yuan](https://faculty.sustech.edu.cn/?tagid=yuanhy3&iscss=1&snapid=1&orderby=date&go=2)
   
-## Skills
+Skill
+======
 
  * 3D Printer
  * simulation software
