@@ -9,37 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D in PSU,  [University of Pittsburgh](https://www.pitt.edu/) , 2029 (expected)
+* B.S. in SUSTech, [Southern University of Science and Technology](https://mae.sustech.edu.cn), 2024
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work experience
+ * Fall 2024: Teaching Assistant in [CEE1402](https://sites.pitt.edu/~budny/CE/MainBody.html)
+	-University of Pittsburgh
+	-Duties included: teaching lab course, grading homework
+	-Supervisor: [Dr. Lei Fang](https://www.leifang.org/)
+
+ * Fall 2022: Research Assistant in [Yuan's Lab](https://yuan.mae.sustech.edu.cn/)\
+	-Southern University of Science and Technology 
+    -Duties included: Development of a medical robot for intensinal examination
+    -Supervisor: [Dr. Hongyan Yuan](https://faculty.sustech.edu.cn/?tagid=yuanhy3&iscss=1&snapid=1&orderby=date&go=2)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills
+
+ * 3D Printer
+ * simulation software
+ * ...
 
 Publications
 ======
@@ -62,3 +53,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+> Written with [StackEdit](https://stackedit.io/).
