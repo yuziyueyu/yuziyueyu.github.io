@@ -2,9 +2,9 @@
 title: " [Low Reynold number with high energy flux by design alignment between stress by injection and background strain](https://www.leifang.org/)"
 collection: project
 type: "project"
-permalink: /talks/2012-03-01-talk-1
+permalink: 
 venue: ""
-date: 2024-09-01 to present
+date: "2024-09-01 - present"
 location: "University of Pittsburgh"
 ---
 
