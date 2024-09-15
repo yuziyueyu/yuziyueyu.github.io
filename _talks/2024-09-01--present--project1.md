@@ -1,6 +1,12 @@
-## *Title*: -   [Low Reynold number with high energy flux by design alignment between stress by injection and background strain](https://www.leifang.org/)
-
-#### **<font color="#4bacc6">From 2024.09.01--present</font>**
+---
+title: " [Low Reynold number with high energy flux by design alignment between stress by injection and background strain](https://www.leifang.org/)"
+collection: project
+type: "Talk"
+permalink: /talks/2012-03-01-talk-1
+venue: ""
+date: 2024-09-01 -- present
+location: "University of Pittsburgh"
+---
 
 My recent program was relevant to observe the energy flux in different experiment condition,
 however, with similar Reynolds number. Based on the latest research in our lab, 
